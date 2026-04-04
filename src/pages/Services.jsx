@@ -8,6 +8,14 @@ const services = [
   { name: 'Family Law', icon: <FileText size={24} />, img: "https://images.unsplash.com/photo-1593115057322-e94b77572f20?auto=format&fit=crop&w=400&q=80" },
   { name: 'Criminal Defense', icon: <Shield size={24} />, img: "https://images.unsplash.com/photo-1453941403708-341ff3b6a75f?auto=format&fit=crop&w=400&q=80" },
   { name: 'Real Estate Law', icon: <HomeIcon size={24} />, img: "https://images.unsplash.com/photo-1560513617-4576880c4639?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Personal Injury Law', icon: <Scale size={24} />, img: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Family Law', icon: <FileText size={24} />, img: "https://images.unsplash.com/photo-1593115057322-e94b77572f20?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Criminal Defense', icon: <Shield size={24} />, img: "https://images.unsplash.com/photo-1453941403708-341ff3b6a75f?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Real Estate Law', icon: <HomeIcon size={24} />, img: "https://images.unsplash.com/photo-1560513617-4576880c4639?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Personal Injury Law', icon: <Scale size={24} />, img: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Family Law', icon: <FileText size={24} />, img: "https://images.unsplash.com/photo-1593115057322-e94b77572f20?auto=format&fit=crop&w=400&q=80" },
+  { name: 'Criminal Defense', icon: <Shield size={24} />, img: "https://images.unsplash.com/photo-1453941403708-341ff3b6a75f?auto=format&fit=crop&w=400&q=80" },
+ { name: 'Real Estate Law', icon: <HomeIcon size={24} />, img: "https://images.unsplash.com/photo-1560513617-4576880c4639?auto=format&fit=crop&w=400&q=80" },
 ];
 
 const Services = () => {

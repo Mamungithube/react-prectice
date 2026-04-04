@@ -30,7 +30,9 @@ const Navbar = () => {
       {isOpen && (
         <div className="absolute top-full left-0 w-full bg-[#1A3765] p-10 flex flex-col gap-6 md:hidden shadow-2xl animate-fade-in">
           <a href="" className="text-lg">Home</a>
-          <a href="" className="text-lg">About Us ii</a>
+          <a href="/about-us" className="text-lg">About Us</a>
+          <a href="/services" className="text-lg">Services</a>
+          <a href="/contact-us" className="text-lg">Contact</a>
           <Link to="/login" className="bg-white text-[#1A3765] text-center py-3 rounded-xl font-bold">Login</Link>
         </div>
       )}
